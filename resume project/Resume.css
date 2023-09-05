@@ -1,0 +1,35 @@
+.Titles
+{
+    color: red;
+}
+
+.page
+{
+    background-color: white;
+    height: 1200px;
+    width: 600px;
+    border: 1px solid black;
+    margin: 1px auto;
+    padding: 0 150px 0 150px;
+    box-shadow: 4px 8px 8px gray;
+}
+
+.date
+{
+    font-size: 13px;
+}
+
+p,li,ul,ol
+{
+    font-family:sans-serif ;
+}
+
+h2,h3
+{
+    font-family:serif;
+}
+
+body
+{
+    background-color: rgb(237, 237, 237);
+}
